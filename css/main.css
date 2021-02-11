@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #000;
+}
+
+#share-location {
+    padding: 19px;
+    width: 50%;
+    border:none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 20px;
+    background: #109dfb;
+    color: #fff;
+    outline: none;
+
+}
+.color {
+    color: yellow;
+
+}
